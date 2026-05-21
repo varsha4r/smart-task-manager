@@ -22,6 +22,4 @@ An AI-powered task manager built using Lovable and Claude AI.
 - Claude AI
 
 ## 🙋 Author
-**Varsah Panda** — DevOps & Cloud Engineer
-LinkedIn: https://www.linkedin.com/in/varsha-panda-58b2b5212
-GitHub: https://github.com/varsha4r
+**Varsah Panda** — DevOps & Cloud Engineer LinkedIn: https://www.linkedin.com/in/varsha-panda-58b2b5212 GitHub: https://github.com/varsha4r
